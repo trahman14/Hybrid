@@ -1,0 +1,7 @@
+url= file:///Users/tarek.rahman/Desktop/OurWebSite.html
+ThisText=.//*[@id='head']/h2
+FName=.//*[@id='FN']
+Lname=.//*[@id='LN']
+Male=.//input[7]
+AEM=.//*[@id='AGE']
+Month=.//*[@id='MN']

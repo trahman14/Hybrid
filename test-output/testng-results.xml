@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-18T22:25:34Z" name="Default suite" finished-at="2018-07-18T22:25:40Z" duration-ms="6680">
+    <groups>
+    </groups>
+    <test started-at="2018-07-18T22:25:34Z" name="Default test" finished-at="2018-07-18T22:25:40Z" duration-ms="6680">
+      <class name="testCase.HybridTestCase">
+        <test-method signature="HybridTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCase.HybridTestCase@6913c1fb]" started-at="2018-07-18T18:25:34Z" name="HybridTest" data-provider="HybridData" finished-at="2018-07-18T18:25:37Z" duration-ms="2703" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mouse Hover]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybridTest -->
+        <test-method signature="HybridTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCase.HybridTestCase@6913c1fb]" started-at="2018-07-18T18:25:37Z" name="HybridTest" data-provider="HybridData" finished-at="2018-07-18T18:25:37Z" duration-ms="83" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[GOTOURL]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[url]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybridTest -->
+        <test-method signature="HybridTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCase.HybridTestCase@6913c1fb]" started-at="2018-07-18T18:25:37Z" name="HybridTest" data-provider="HybridData" finished-at="2018-07-18T18:25:37Z" duration-ms="68" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MOUSEHOVER]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SM]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[LINKTEXT]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybridTest -->
+        <test-method signature="HybridTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCase.HybridTestCase@6913c1fb]" started-at="2018-07-18T18:25:37Z" name="HybridTest" data-provider="HybridData" finished-at="2018-07-18T18:25:37Z" duration-ms="327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CLICK]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[XPATH]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybridTest -->
+        <test-method signature="HybridTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCase.HybridTestCase@6913c1fb]" started-at="2018-07-18T18:25:37Z" name="HybridTest" data-provider="HybridData" finished-at="2018-07-18T18:25:40Z" duration-ms="3003" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[THREAD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybridTest -->
+        <test-method signature="HybridTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCase.HybridTestCase@6913c1fb]" started-at="2018-07-18T18:25:40Z" name="HybridTest" data-provider="HybridData" finished-at="2018-07-18T18:25:40Z" duration-ms="47" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SENDKEYS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FN]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NAME]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Tarek]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybridTest -->
+      </class> <!-- testCase.HybridTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
